@@ -101,6 +101,7 @@ This section describes software that enables creation of Qt software in a primar
 - [Python (via PySide)](https://wiki.qt.io/PySide) [:package:](https://code.qt.io/cgit/pyside/pyside.git) - Another binding for Python, which has been officially adopted by the Qt project.
 - [Ring (via RingQt)](http://ring-lang.sourceforge.net/doc/qt.html) [:octocat:](https://github.com/ring-lang/ring/tree/master/extensions/ringqt) - I've never heard of this language either, honestly.
 - [Mono/.NET languages (via QtSharp)](https://github.com/ddobrev/QtSharp) [:octocat:](https://github.com/ddobrev/QtSharp) - Experimental wrapper for Qt that allows it to be used by .NET-based languages such as C#.  Young, but active.
+- [Rust Qt Binding Generator](https://www.vandenoever.info/blog/2017/09/04/rust_qt_binding_generator.html) [:package:](https://cgit.kde.org/rust-qt-binding-generator.git/) Rust has a modern syntax, and especially strong guarantees for memory-safety and concurrency. This project takes Qt UI code, and generates the necessary bindings to write the implementation in Rust. Under review for inclusion in KDE. Examples in [this blog post](https://www.vandenoever.info/blog/2017/09/04/rust_qt_binding_generator.html).
 
 See these [these](https://www.ics.com/blog/using-qt-alternative-programming-languages-part-1) [three](https://www.ics.com/blog/using-qt-alternative-programming-languages-part-2) [articles](https://wiki.qt.io/Category:LanguageBindings) if you want more.
 
